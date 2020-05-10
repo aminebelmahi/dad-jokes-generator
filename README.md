@@ -1,9 +1,10 @@
 # Dad Jokes Generator
 
-## Description
+## Description:
 A very simple Dad Jokes Generator made with Vue.js using an external API 
 
-## Screenshots <img src="https://snipboard.io/K1k0Ix.jpg">
+## Screenshots:
+<img src="https://snipboard.io/K1k0Ix.jpg">
 
 ## Project setup
 ```

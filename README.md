@@ -1,4 +1,4 @@
-# sandbox
+# Dad Jokes Generator
 
 ## Project setup
 ```
